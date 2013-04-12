@@ -3,7 +3,6 @@
 QA Hackathon 2013 Tokyo の TODO List と Wiki のみに使います。
 
 TODO list は issue に追加。詳細を各プロジェクトの issue に書いて、そこへのリンクでも大丈夫です。
-issue の更新は Lingr の perl_jp チャンネルに notice されます。
 
 参加しそうな人はあらかじめ追加しましたが、追加して欲しい人は issue をあげてください :)
 
